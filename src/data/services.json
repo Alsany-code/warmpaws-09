@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://media.istockphoto.com/id/1492187310/photo/pet-dog-in-fur-hat-sheepskin-coat-is-warmly-dressed-for-winter-walk-in-forest.jpg?s=612x612&w=0&k=20&c=RpyCX7TSMcAf8X9s8Q_WCkhBrfZ2JHg5sl_wAa-32tI=",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUP4tq3riwJfqQl2ayRk052iLX3trK8D8hUQ&s",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Pet Winter Boots",
+    "providerName": "PawComfort",
+    "providerEmail": "support@pawcomfort.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Warm boots to protect your pet's paws from ice and snow.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOU8hUp0_GFJV8T3J1xFaCT1MAK7G8nFrbVg&s",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Heated Pet Bed",
+    "providerName": "CozyNest",
+    "providerEmail": "info@cozynest.com",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Soft heated bed to keep pets cozy during winter nights.",
+    "image": "https://cdn.shopify.com/s/files/1/0272/4770/6214/files/are-heated-cat-beds-safe-to-leave-plugged-in_600x600.jpg?v=1735858434",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Pet Nutrition Consultation",
+    "providerName": "HealthyPaws",
+    "providerEmail": "contact@healthypaws.com",
+    "price": 40,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Diet plans for pets to stay healthy and warm in winter.",
+    "image": "https://pawpurrfect.co/wp-content/uploads/2024/01/Feed-Your-Dog-in-Winters-900x600.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Coat Cleaning Service",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 4,
+    "description": "Cleaning and maintenance of winter coats for pets.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQbfOTy0w-j5cMeEYY6I1xI6BCWzWap3h6A&s",
+    "category": "Grooming"
+  }
+]
